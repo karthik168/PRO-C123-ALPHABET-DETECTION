@@ -1,1 +1,2 @@
-# PRO-C123-ALPHABET-DETECTION
+# Alphabet-Recognition-
+An simple python program
